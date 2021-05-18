@@ -1,2 +1,2 @@
-# Machine_Learning
-It consists of Regression,Classification and Clustering Problems
+# Machine Learning
+### It consists of Classification and Clustering models 
