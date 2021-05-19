@@ -1,5 +1,5 @@
 # College to Coperate
- I got best accuracy using **ExtraTrees Classifier** and accuracy is **0.8928571428571429**
+ I got best accuracy using **ExtraTrees Classifier** and accuracy is **0.8928**
 
 ### Problem Statement
 With the growth in the number of educational institutes, the aim of every institute is to get their students placed in a good organization. Education institutes are also being evaluated by the students based on their placement performance.
