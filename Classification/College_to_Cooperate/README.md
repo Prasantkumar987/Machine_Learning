@@ -1,4 +1,4 @@
-# College to Coperate
+# College to Coperate(Hackathon)
  I got best accuracy using **ExtraTrees Classifier** and accuracy is **0.8928**
 
 ### Problem Statement
